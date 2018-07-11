@@ -1,0 +1,20 @@
+{
+  "name": "node-express-mongoose-starterkit",
+  "version": "1.0.0",
+  "description": "Starter kit for Node , Express and Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Om Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.1.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mongoose": "^5.2.2"
+  }
+}
